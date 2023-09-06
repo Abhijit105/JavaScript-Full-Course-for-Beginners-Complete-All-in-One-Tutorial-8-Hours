@@ -1,0 +1,6 @@
+Number.isInteger(<number>)
+Number.parseFloat(<number>)
+tofixed(<number of decimal places>)
+Number.parseInt(<number>)
+toString(<number>)
+Number.isNaN(<number>)

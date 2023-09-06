@@ -1,0 +1,9 @@
+length
+charAt(<position(0 to length - 1)>)
+indexOf(<string>)
+lastIndexOf(<string>)
+slice(<start position>, <end position(optional) !if end position < start position, nothing will be returned>)
+toUpperCase()
+toLowerCase()
+includes(<string>)
+split(<string>)
